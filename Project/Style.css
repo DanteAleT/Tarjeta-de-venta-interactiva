@@ -1,0 +1,89 @@
+/* body */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */
+* {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+body{
+    background-image: url(Images/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg) ;
+    background-repeat: repeat;
+}
+/* imagenes*/ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */
+.images{
+    margin-top: 150px;
+    margin-left: 550px;
+    display: inline-block;
+}
+ .Wimage{
+    border-radius: 20px;
+    position: absolute;
+    height: 700px;
+    width: 800px;
+ }
+ .Mimage{
+    border-radius: 20px 0px 0px 20px;
+    position: absolute;
+    height: 700px;
+    width: 400px;
+ }
+ .icon{
+    position: absolute;
+    margin-left: 535px;
+    margin-top: 170px;
+ }
+ /* texto */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */ /*  */
+ .text{
+    position: absolute;
+ }
+ .ph3{
+    font-size: small;
+    margin-top: 40px;
+    margin-left: 450px;
+    font-family: 'Oswald', sans-serif;
+    opacity: 70%;
+ }
+ .ph1{
+    margin-left: 430px;
+    margin-top: 20px;
+ }
+ .p1{
+    width: 300px;
+    margin-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+ }
+ .Price1{
+    font-weight: 900;
+    color: green;
+    position: absolute;
+    font-size: 50px;  
+    width: 300px;
+    margin-left: 450px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 0%;
+ }
+ .Price2{
+    font-weight: 900;
+    position: absolute;
+    text-decoration: line-through;
+    font-size: 20px;  
+    width: 300px;
+    margin-top: 45px;
+    margin-left: 640px;
+    font-family: 'Montserrat', sans-serif;
+ }
+ .button1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    width: 240px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 460px;
+    color: aliceblue;
+    padding: 20px;
+    background-color: green;
+    text-decoration: none;
+ }
